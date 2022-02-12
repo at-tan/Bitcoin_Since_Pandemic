@@ -6,6 +6,6 @@ The findings allow us to draw three firm conclusions supported by rigorous stati
 
 Third, Bitcoin’s overall relationship to three macro-financial factors (namely, the stock market, US dollar and inflation expectations) has strengthened since the pandemic and confirmed by an F-test of joint significance, though the R-squared remains relatively low in absolute terms. There is another more tentative finding from the analysis, namely Bitcoin’s beta to the DXY Dollar Index may also have deepened, suggesting a negative relationship to the US dollar since the start of the pandemic.
 
-These findings undermine some of the key arguments for more institutional asset allocation into Bitcoin.
+These findings undermine some of the key arguments for more institutional asset allocation into Bitcoin, though it does not discuss Bitcoin's price outlook.
 
 A description of the research methodology and the statistical findings are presented in https://medium.datadriveninvestor.com/bitcoins-shifting-relationship-to-macro-factors-5465d542078f?sk=860cc5c6480b74ba9e91832be5c08f0d
